@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**elegant76S/elegant76S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About me
+- 🙋‍♂️ My name is Artem
+- 🇺🇦 Live in Ukraine
+- 💬 Can speek on Russian, Ukrainian, English
+## 🎭 My info
+- 👨‍💻 Use Python, HTML, CSS, JS
+- 🖥️ Like a open source and GTK + libadwaita desktop apps
+## 🕹️ My setup
+- 🪻 Fedora 42 Workstation + GNOME 48.1 or KDE Plasma 6.1
+## 🔮 My social
+- 👨‍💻 Old github: [@valerapvor](https://github.com/valerapvor)
+- 📹 YouTube: [@вурст](https://www.youtube.com/@wurst-linux)
+- 🎮 Steam: [@valerapvor](https://steamcommunity.com/id/valerapvor/)
