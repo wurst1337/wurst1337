@@ -6,7 +6,7 @@
 - 👨‍💻 Use Python, HTML, CSS, JS
 - 🖥️ Like a open source and GTK + libadwaita desktop apps
 ## 🕹️ My setup
-- 🪻 Fedora 42 Workstation + GNOME 48.1 or KDE Plasma 6.1
+- 🪻 Arch Linux + GNOME 48.1 or KDE Plasma 6.1
 ## 🔮 My social
 - 👨‍💻 Old github: [@valerapvor](https://github.com/valerapvor)
 - 📹 YouTube: [@вурст](https://www.youtube.com/@wurst-linux)
